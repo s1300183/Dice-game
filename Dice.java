@@ -26,13 +26,6 @@ class Dice{
         System.out.println("Die 2: " + saikoro2);
         System.out.println("Total value: " + sum);
 
-	if(sum>=7){
-	 
-	    System.out.println(You + " won!");
-	}
-	else{
-	    System.out.println(You + " lost!");
-	}
 	
 
     } 
