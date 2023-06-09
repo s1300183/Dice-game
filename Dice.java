@@ -32,7 +32,7 @@ class Dice{
 
 		    System.out.println(name +" lose!");
 	}
-        System.out.println("Total value: " + sum);
+     
 
 	
 
