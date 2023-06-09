@@ -28,10 +28,10 @@ class Dice{
 
 	if(sum>=7){
 	 
-	    System.out.println(name + " won!");
+	    System.out.println(You + " won!");
 	}
 	else{
-	    System.out.println(name + " lost!");
+	    System.out.println(You + " lost!");
 	}
 	
 
